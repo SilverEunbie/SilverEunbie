@@ -4,3 +4,5 @@
   * Plugin
   * Mod
   * Script
+* Contact Us
+  * Discord: MoreGrayner
